@@ -1,1 +1,9 @@
-{}
+{
+  "color": {
+    "text-primary": { "$value": { "kind": "value", "value": "#303240" } },
+    "surface-main": { "$value": { "kind": "value", "value": "#f0f0f0" } },
+    "uui.link": { "$value": { "kind": "value", "value": "#009ecc" } },
+    "brand.custom": { "$value": { "kind": "value", "value": "#123456" } },
+    "brand.alias": { "$value": { "kind": "reference", "refKey": "brand.custom" } }
+  }
+}
