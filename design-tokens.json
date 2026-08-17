@@ -1,9 +1,15 @@
 {
   "color": {
-    "text-primary": { "$value": { "kind": "value", "value": "#303240" } },
-    "surface-main": { "$value": { "kind": "value", "value": "#f0f0f0" } },
-    "uui.link": { "$value": { "kind": "value", "value": "#009ecc" } },
+    "uui.text.primary": { "$value": { "kind": "value", "value": "#303240" } },
+    "uui.surface.main": { "$value": { "kind": "value", "value": "#ffffff" } },
     "brand.custom": { "$value": { "kind": "value", "value": "#123456" } },
     "brand.alias": { "$value": { "kind": "reference", "refKey": "brand.custom" } }
+  },
+  "typography": {
+    "heading.h3": { "$value": { "kind": "value", "value": { "fontFamily": "Museo Sans", "fontWeight": 600, "fontSize": "24px", "lineHeight": "30px" } } },
+    "uui4-light.text.text-16": { "$value": { "kind": "value", "value": { "fontFamily": "Source Sans Pro", "fontWeight": 400, "fontSize": "18px", "lineHeight": "24px" } } }
+  },
+  "shadow": {
+    "epam.core.shadow-level-3": { "$value": { "kind": "value", "value": { "offsetX": 0, "offsetY": 9, "blur": 20, "spread": 0, "color": "#1D1E260D" } } }
   }
 }
