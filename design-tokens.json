@@ -23,6 +23,36 @@
         "kind": "reference",
         "refKey": "brand.custom"
       }
+    },
+    "core.icons.icon": {
+      "$value": {
+        "kind": "value",
+        "value": "#6C6F80"
+      }
+    },
+    "core.surfaces.divider": {
+      "$value": {
+        "kind": "value",
+        "value": "#CED0DB"
+      }
+    },
+    "core.surfaces.divider-light": {
+      "$value": {
+        "kind": "value",
+        "value": "#E1E3EB"
+      }
+    },
+    "core.surfaces.overlay": {
+      "$value": {
+        "kind": "value",
+        "value": "#1D1E26CC"
+      }
+    },
+    "palette-additional.purple.purple-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#E79DF5"
+      }
     }
   },
   "typography": {
@@ -30,7 +60,7 @@
       "$value": {
         "kind": "value",
         "value": {
-          "fontFamily": "Museo Sans",
+          "fontFamily": "Source Sans Pro",
           "fontWeight": 600,
           "fontSize": "24px",
           "lineHeight": "30px"
@@ -47,19 +77,57 @@
           "lineHeight": "24px"
         }
       }
+    },
+    "core.headlines.h4": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontWeight": 600,
+          "fontSize": "18px",
+          "lineHeight": "24px"
+        }
+      }
+    },
+    "core.promo-headlines.ph3": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontWeight": 700,
+          "fontSize": "36px",
+          "lineHeight": "42px"
+        }
+      }
     }
   },
   "shadow": {
     "epam.core.shadow-level-3": {
       "$value": {
         "kind": "value",
-        "value": {
-          "offsetX": 0,
-          "offsetY": 9,
-          "blur": 15,
-          "spread": 0,
-          "color": "#1D1E260D"
-        }
+        "value": [
+          {
+            "offsetX": 0,
+            "offsetY": 9,
+            "blur": 15,
+            "spread": 0,
+            "color": "#1D1E260D"
+          },
+          {
+            "offsetX": 0,
+            "offsetY": 6,
+            "blur": 36,
+            "spread": 0,
+            "color": "#1D1E261F"
+          },
+          {
+            "offsetX": 0,
+            "offsetY": 0,
+            "blur": 10,
+            "spread": 0,
+            "color": "#1D1E260D"
+          }
+        ]
       }
     }
   }
