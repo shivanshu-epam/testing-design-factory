@@ -1,0 +1,47 @@
+name: Design Token Diff
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: '0 9 * * 1-5'
+  pull_request:
+    paths:
+      - 'design-tokens.json'
+
+jobs:
+  check-drift:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Claude Code
+        run: curl -fsSL https://claude.ai/install.sh | bash
+
+      - name: Check token drift
+        id: check
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FIGMA_TOKEN: ${{ secrets.FIGMA_TOKEN }}
+          FIGMA_FILE_KEY: ${{ secrets.FIGMA_FILE_KEY }}
+          GITHUB_TOKEN_TOKENS_REPO: ${{ secrets.GITHUB_TOKEN_TOKENS_REPO }}
+        run: |
+          export PATH="$HOME/.local/bin:$PATH"
+          claude -p "Using the design-token-diff skill: check token drift. \
+          Read FIGMA_TOKEN and FIGMA_FILE_KEY from the environment (don't ask for them). \
+          Read GITHUB_TOKEN_TOKENS_REPO from the environment as the GitHub token; \
+          this repo (owner/repo from the current checkout) and branch main, path design-tokens.json. \
+          Run Stages 0-3 only — extract, diff, report. Do NOT resolve conflicts, \
+          do NOT write anywhere, do NOT invoke Stage 4/5/6. \
+          Output ONLY the Stage 3 JSON block, nothing else." \
+          --allowedTools "Bash" \
+          > /tmp/result.json
+
+          cat /tmp/result.json
+          HAS_DIFF=$(node -e 'const r=JSON.parse(require("fs").readFileSync("/tmp/result.json","utf8")); const s=r.summary; process.stdout.write(String((s.modified||0)+(s.addedFigma||0)+(s.addedGithub||0)+(s.error||0) > 0))')
+          echo "has_diff=$HAS_DIFF" >> "$GITHUB_OUTPUT"
+
+      - name: Fail if drift found
+        if: steps.check.outputs.has_diff == 'true'
+        run: |
+          echo "::error::Design token drift detected — see the check step output above."
+          exit 1
