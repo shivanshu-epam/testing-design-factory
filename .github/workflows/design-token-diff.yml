@@ -23,12 +23,12 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           FIGMA_TOKEN: ${{ secrets.FIGMA_TOKEN }}
           FIGMA_FILE_KEY: ${{ secrets.FIGMA_FILE_KEY }}
-          GITHUB_TOKEN_TOKENS_REPO: ${{ secrets.GITHUB_TOKEN_TOKENS_REPO }}
+          TOKENS_REPO_GH_TOKEN: ${{ secrets.TOKENS_REPO_GH_TOKEN }}
         run: |
           export PATH="$HOME/.local/bin:$PATH"
           claude -p "Using the design-token-diff skill: check token drift. \
           Read FIGMA_TOKEN and FIGMA_FILE_KEY from the environment (don't ask for them). \
-          Read GITHUB_TOKEN_TOKENS_REPO from the environment as the GitHub token; \
+          Read TOKENS_REPO_GH_TOKEN from the environment as the GitHub token; \
           this repo (owner/repo from the current checkout) and branch main, path design-tokens.json. \
           Run Stages 0-3 only — extract, diff, report. Do NOT resolve conflicts, \
           do NOT write anywhere, do NOT invoke Stage 4/5/6. \
