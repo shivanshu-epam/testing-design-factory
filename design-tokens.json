@@ -1,133 +1,4287 @@
 {
   "color": {
-    "uui.text.primary": {
-      "$value": {
-        "kind": "value",
-        "value": "#303240"
-      }
-    },
-    "uui.surface.main": {
+    "Theme/Loveship-Light/palette/white": {
       "$value": {
         "kind": "value",
         "value": "#fffff5"
       }
     },
-    "brand.custom": {
+    "Theme/Loveship-Light/palette/night/night50": {
+      "$value": {
+        "kind": "value",
+        "value": "#fafafc"
+      }
+    },
+    "Theme/Loveship-Light/palette/night/night100": {
+      "$value": {
+        "kind": "value",
+        "value": "#f5f6fa"
+      }
+    },
+    "Theme/Loveship-Light/palette/night/night200": {
+      "$value": {
+        "kind": "value",
+        "value": "#ebedf5"
+      }
+    },
+    "Theme/Loveship-Light/palette/night/night300": {
+      "$value": {
+        "kind": "value",
+        "value": "#e1e3eb"
+      }
+    },
+    "Theme/Loveship-Light/palette/night/night400": {
+      "$value": {
+        "kind": "value",
+        "value": "#ced0db"
+      }
+    },
+    "Theme/Loveship-Light/palette/night/night500": {
+      "$value": {
+        "kind": "value",
+        "value": "#acafbf"
+      }
+    },
+    "Theme/Loveship-Light/palette/night/night600": {
+      "$value": {
+        "kind": "value",
+        "value": "#6c6f80"
+      }
+    },
+    "Theme/Loveship-Light/palette/night/night700": {
+      "$value": {
+        "kind": "value",
+        "value": "#474a59"
+      }
+    },
+    "Theme/Loveship-Light/palette/night/night800": {
+      "$value": {
+        "kind": "value",
+        "value": "#303240"
+      }
+    },
+    "Theme/Loveship-Light/palette/night/night900": {
+      "$value": {
+        "kind": "value",
+        "value": "#1d1e26"
+      }
+    },
+    "Theme/Loveship-Light/palette/night/night950": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/sky/sky-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#f5fdff"
+      }
+    },
+    "Theme/Loveship-Light/palette/sky/sky-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#e1f4fa"
+      }
+    },
+    "Theme/Loveship-Light/palette/sky/sky-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#a0ddee"
+      }
+    },
+    "Theme/Loveship-Light/palette/sky/sky-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#009ecc"
+      }
+    },
+    "Theme/Loveship-Light/palette/sky/sky-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#0086ad"
+      }
+    },
+    "Theme/Loveship-Light/palette/sky/sky-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#006b8a"
+      }
+    },
+    "Theme/Loveship-Light/palette/sun/sun-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#fffcf5"
+      }
+    },
+    "Theme/Loveship-Light/palette/sun/sun-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffedc9"
+      }
+    },
+    "Theme/Loveship-Light/palette/sun/sun-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffd785"
+      }
+    },
+    "Theme/Loveship-Light/palette/sun/sun-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#fcaa00"
+      }
+    },
+    "Theme/Loveship-Light/palette/sun/sun-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#ff9000"
+      }
+    },
+    "Theme/Loveship-Light/palette/sun/sun-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#bd5800"
+      }
+    },
+    "Theme/Loveship-Light/palette/fire/fire-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#fef6f6"
+      }
+    },
+    "Theme/Loveship-Light/palette/fire/fire-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#fde1e1"
+      }
+    },
+    "Theme/Loveship-Light/palette/fire/fire-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#fbb6b6"
+      }
+    },
+    "Theme/Loveship-Light/palette/fire/fire-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#ff4242"
+      }
+    },
+    "Theme/Loveship-Light/palette/fire/fire-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#e22a2a"
+      }
+    },
+    "Theme/Loveship-Light/palette/fire/fire-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#ad0000"
+      }
+    },
+    "Theme/Loveship-Light/palette/blue/blue-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/blue/blue-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/blue/blue-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/blue/blue-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/blue/blue-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/blue/blue-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/amber/amber-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/amber/amber-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/amber/amber-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/amber/amber-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/amber/amber-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/amber/amber-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/red/red-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/red/red-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/red/red-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/red/red-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/red/red-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/red/red-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/gray/gray5": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/gray/gray10": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/gray/gray20": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/gray/gray30": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/gray/gray40": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/gray/gray50": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/gray/gray60": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/gray/gray70": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/gray/gray80": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/gray/gray90": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/electric/electric-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/electric/electric-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/electric/electric-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/electric/electric-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/electric/electric-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/electric/electric-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/emerald/emerald-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/emerald/emerald-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/emerald/emerald-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/emerald/emerald-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/emerald/emerald-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/emerald/emerald-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/green/green-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/green/green-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/green/green-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/green/green-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/green/green-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/green/green-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/palette/grass/grass-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#fcfff5"
+      }
+    },
+    "Theme/Loveship-Light/palette/grass/grass-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#ebf3d8"
+      }
+    },
+    "Theme/Loveship-Light/palette/grass/grass-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#c1e288"
+      }
+    },
+    "Theme/Loveship-Light/palette/grass/grass-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#67a300"
+      }
+    },
+    "Theme/Loveship-Light/palette/grass/grass-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#528500"
+      }
+    },
+    "Theme/Loveship-Light/palette/grass/grass-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#396f1f"
+      }
+    },
+    "Theme/Loveship-Light/palette/black": {
+      "$value": {
+        "kind": "value",
+        "value": "#000000"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/yellow/yellow-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffdff5"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/yellow/yellow-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffe5"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/yellow/yellow-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#fffca4"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/yellow/yellow-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#fdd63b"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/yellow/yellow-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#edbe02"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/yellow/yellow-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#bc7e02"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/orange/orange-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#fef8f4"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/orange/orange-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffe8d7"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/orange/orange-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffcca7"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/orange/orange-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#ff8b3e"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/orange/orange-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#f76b0d"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/orange/orange-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#bd4b00"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/fuchsia/fuchsia-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#fff7fb"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/fuchsia/fuchsia-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#f9d8e7"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/fuchsia/fuchsia-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#edadc8"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/fuchsia/fuchsia-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#ea4386"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/fuchsia/fuchsia-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#d61e68"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/fuchsia/fuchsia-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#ae1955"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/purple/purple-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#fdf6fe"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/purple/purple-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#f2ccfa"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/purple/purple-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#e79df5"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/purple/purple-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#b114d1"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/purple/purple-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#860f9e"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/purple/purple-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#5e0b6f"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/violet/violet-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#f8f6fe"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/violet/violet-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#dbccfa"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/violet/violet-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#bb9df5"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/violet/violet-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#773cec"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/violet/violet-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#5514d6"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/violet/violet-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#40109e"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/cobalt/cobalt-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#f8faff"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/cobalt/cobalt-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#d9e2fc"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/cobalt/cobalt-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#aec0f5"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/cobalt/cobalt-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#0f98ff"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/cobalt/cobalt-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#006fe5"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/cobalt/cobalt-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#0954a5"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/cyan/cyan-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#f6fefe"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/cyan/cyan-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#d1fafa"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/cyan/cyan-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#aaeeee"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/cyan/cyan-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#14cccc"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/cyan/cyan-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#12b5b5"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/cyan/cyan-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#0b6f6f"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/mint/mint-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#f2fcf5"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/mint/mint-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#ddf3e4"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/mint/mint-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#b4dfc4"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/mint/mint-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#4fc48c"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/mint/mint-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#31aa70"
+      }
+    },
+    "Theme/Loveship-Light/palette-additional/mint/mint-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#236e4a"
+      }
+    },
+    "Theme/Loveship-Light/palette-gradients/logo-gradient-1": {
+      "$value": {
+        "kind": "value",
+        "value": "#41c3de"
+      }
+    },
+    "Theme/Loveship-Light/palette-gradients/logo-gradient-2": {
+      "$value": {
+        "kind": "value",
+        "value": "#1b9ad2"
+      }
+    },
+    "Theme/Loveship-Light/palette-gradients/logo-gradient-3": {
+      "$value": {
+        "kind": "value",
+        "value": "#467ec0"
+      }
+    },
+    "Theme/Loveship-Light/core/surfaces/surface-main": {
+      "$value": {
+        "kind": "value",
+        "value": "#fffff5"
+      }
+    },
+    "Theme/Loveship-Light/core/surfaces/surface-sunken": {
+      "$value": {
+        "kind": "value",
+        "value": "#ebedf5"
+      }
+    },
+    "Theme/Loveship-Light/core/surfaces/surface-higher": {
+      "$value": {
+        "kind": "value",
+        "value": "#f5f6fa"
+      }
+    },
+    "Theme/Loveship-Light/core/surfaces/surface-highest": {
+      "$value": {
+        "kind": "value",
+        "value": "#ebedf5"
+      }
+    },
+    "Theme/Loveship-Light/core/surfaces/app-bg": {
+      "$value": {
+        "kind": "value",
+        "value": "#f5f6fa"
+      }
+    },
+    "Theme/Loveship-Light/core/surfaces/overlay": {
+      "$value": {
+        "kind": "value",
+        "value": "#1d1e26cc"
+      }
+    },
+    "Theme/Loveship-Light/core/surfaces/divider": {
+      "$value": {
+        "kind": "value",
+        "value": "#ced0db"
+      }
+    },
+    "Theme/Loveship-Light/core/surfaces/divider-light": {
+      "$value": {
+        "kind": "value",
+        "value": "#e1e3eb"
+      }
+    },
+    "Theme/Loveship-Light/core/text/text-primary": {
+      "$value": {
+        "kind": "value",
+        "value": "#303240"
+      }
+    },
+    "Theme/Loveship-Light/core/text/text-secondary": {
+      "$value": {
+        "kind": "value",
+        "value": "#474a59"
+      }
+    },
+    "Theme/Loveship-Light/core/text/text-tertiary": {
+      "$value": {
+        "kind": "value",
+        "value": "#6c6f80"
+      }
+    },
+    "Theme/Loveship-Light/core/text/text-disabled": {
+      "$value": {
+        "kind": "value",
+        "value": "#acafbf"
+      }
+    },
+    "Theme/Loveship-Light/core/text/text-bg-highlight": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffedc9"
+      }
+    },
+    "Theme/Loveship-Light/core/text/text-info": {
+      "$value": {
+        "kind": "value",
+        "value": "#006b8a"
+      }
+    },
+    "Theme/Loveship-Light/core/text/text-success": {
+      "$value": {
+        "kind": "value",
+        "value": "#396f1f"
+      }
+    },
+    "Theme/Loveship-Light/core/text/text-warning": {
+      "$value": {
+        "kind": "value",
+        "value": "#bd5800"
+      }
+    },
+    "Theme/Loveship-Light/core/text/text-critical": {
+      "$value": {
+        "kind": "value",
+        "value": "#ad0000"
+      }
+    },
+    "Theme/Loveship-Light/core/links/link": {
+      "$value": {
+        "kind": "value",
+        "value": "#009ecc"
+      }
+    },
+    "Theme/Loveship-Light/core/links/link-hover": {
+      "$value": {
+        "kind": "value",
+        "value": "#0086ad"
+      }
+    },
+    "Theme/Loveship-Light/core/links/link-visited": {
+      "$value": {
+        "kind": "value",
+        "value": "#860f9e"
+      }
+    },
+    "Theme/Loveship-Light/core/links/link-visited-hover": {
+      "$value": {
+        "kind": "value",
+        "value": "#5e0b6f"
+      }
+    },
+    "Theme/Loveship-Light/core/icons/icon": {
+      "$value": {
+        "kind": "value",
+        "value": "#6c6f80"
+      }
+    },
+    "Theme/Loveship-Light/core/icons/icon-hover": {
+      "$value": {
+        "kind": "value",
+        "value": "#474a59"
+      }
+    },
+    "Theme/Loveship-Light/core/icons/icon-active": {
+      "$value": {
+        "kind": "value",
+        "value": "#303240"
+      }
+    },
+    "Theme/Loveship-Light/core/icons/icon-disabled": {
+      "$value": {
+        "kind": "value",
+        "value": "#acafbf"
+      }
+    },
+    "Theme/Loveship-Light/core/controls/control-bg": {
+      "$value": {
+        "kind": "value",
+        "value": "#fffff5"
+      }
+    },
+    "Theme/Loveship-Light/core/controls/control-bg-hover": {
+      "$value": {
+        "kind": "value",
+        "value": "#6c6f80"
+      }
+    },
+    "Theme/Loveship-Light/core/controls/control-bg-disabled": {
+      "$value": {
+        "kind": "value",
+        "value": "#fafafc"
+      }
+    },
+    "Theme/Loveship-Light/core/controls/control-border": {
+      "$value": {
+        "kind": "value",
+        "value": "#ced0db"
+      }
+    },
+    "Theme/Loveship-Light/core/controls/control-border-hover": {
+      "$value": {
+        "kind": "value",
+        "value": "#6c6f80"
+      }
+    },
+    "Theme/Loveship-Light/core/controls/control-border-focus": {
+      "$value": {
+        "kind": "value",
+        "value": "#009ecc"
+      }
+    },
+    "Theme/Loveship-Light/core/controls/control-border-disabled": {
+      "$value": {
+        "kind": "value",
+        "value": "#e1e3eb"
+      }
+    },
+    "Theme/Loveship-Light/core/controls/control-placeholder": {
+      "$value": {
+        "kind": "value",
+        "value": "#acafbf"
+      }
+    },
+    "Theme/Loveship-Light/core/controls/control-placeholder-disabled": {
+      "$value": {
+        "kind": "value",
+        "value": "#acafbf"
+      }
+    },
+    "Theme/Loveship-Light/core/controls/control-text": {
+      "$value": {
+        "kind": "value",
+        "value": "#303240"
+      }
+    },
+    "Theme/Loveship-Light/core/controls/control-text-disabled": {
+      "$value": {
+        "kind": "value",
+        "value": "#6c6f80"
+      }
+    },
+    "Theme/Loveship-Light/core/controls/control-icon": {
+      "$value": {
+        "kind": "value",
+        "value": "#acafbf"
+      }
+    },
+    "Theme/Loveship-Light/core/controls/control-icon-disabled": {
+      "$value": {
+        "kind": "value",
+        "value": "#acafbf"
+      }
+    },
+    "Theme/Loveship-Light/core/other/skeleton": {
+      "$value": {
+        "kind": "value",
+        "value": "#ced0db"
+      }
+    },
+    "Theme/Loveship-Light/core/other/outline-focus": {
+      "$value": {
+        "kind": "value",
+        "value": "#009ecc80"
+      }
+    },
+    "Theme/Loveship-Light/core/internal/undefined-color": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/core/neutral/neutral-0": {
+      "$value": {
+        "kind": "value",
+        "value": "#fffff5"
+      }
+    },
+    "Theme/Loveship-Light/core/neutral/neutral-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#fafafc"
+      }
+    },
+    "Theme/Loveship-Light/core/neutral/neutral-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#f5f6fa"
+      }
+    },
+    "Theme/Loveship-Light/core/neutral/neutral-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#ebedf5"
+      }
+    },
+    "Theme/Loveship-Light/core/neutral/neutral-30": {
+      "$value": {
+        "kind": "value",
+        "value": "#e1e3eb"
+      }
+    },
+    "Theme/Loveship-Light/core/neutral/neutral-40": {
+      "$value": {
+        "kind": "value",
+        "value": "#ced0db"
+      }
+    },
+    "Theme/Loveship-Light/core/neutral/neutral-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#acafbf"
+      }
+    },
+    "Theme/Loveship-Light/core/neutral/neutral-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#6c6f80"
+      }
+    },
+    "Theme/Loveship-Light/core/neutral/neutral-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#474a59"
+      }
+    },
+    "Theme/Loveship-Light/core/neutral/neutral-80": {
+      "$value": {
+        "kind": "value",
+        "value": "#303240"
+      }
+    },
+    "Theme/Loveship-Light/core/neutral/neutral-90": {
+      "$value": {
+        "kind": "value",
+        "value": "#1d1e26"
+      }
+    },
+    "Theme/Loveship-Light/core/neutral/neutral-95": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffffff00"
+      }
+    },
+    "Theme/Loveship-Light/core/neutral/neutral-100": {
+      "$value": {
+        "kind": "value",
+        "value": "#000000"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/primary-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#f5fdff"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/primary-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#e1f4fa"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/primary-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#a0ddee"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/primary-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#009ecc"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/primary-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#0086ad"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/primary-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#006b8a"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/primary-contrast": {
+      "$value": {
+        "kind": "value",
+        "value": "#fffff5"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/accent-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#fcfff5"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/accent-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#ebf3d8"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/accent-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#c1e288"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/accent-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#67a300"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/accent-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#528500"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/accent-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#396f1f"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/accent-contrast": {
+      "$value": {
+        "kind": "value",
+        "value": "#fffff5"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/secondary-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#f5f6fa"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/secondary-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#ebedf5"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/secondary-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#e1e3eb"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/secondary-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#6c6f80"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/secondary-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#474a59"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/secondary-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#303240"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/secondary-contrast": {
+      "$value": {
+        "kind": "value",
+        "value": "#fffff5"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/critical-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#fef6f6"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/critical-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#fde1e1"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/critical-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#fbb6b6"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/critical-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#ff4242"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/critical-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#e22a2a"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/critical-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#ad0000"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/critical-contrast": {
+      "$value": {
+        "kind": "value",
+        "value": "#fffff5"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/info-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#f5fdff"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/info-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#e1f4fa"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/info-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#a0ddee"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/info-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#009ecc"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/info-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#0086ad"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/info-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#006b8a"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/info-contrast": {
+      "$value": {
+        "kind": "value",
+        "value": "#fffff5"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/success-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#fcfff5"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/success-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#ebf3d8"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/success-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#c1e288"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/success-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#67a300"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/success-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#528500"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/success-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#396f1f"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/success-contrast": {
+      "$value": {
+        "kind": "value",
+        "value": "#fffff5"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/warning-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#fffcf5"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/warning-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffedc9"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/warning-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffd785"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/warning-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#fcaa00"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/warning-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#ff9000"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/warning-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#bd5800"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/warning-contrast": {
+      "$value": {
+        "kind": "value",
+        "value": "#303240"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/error-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#fef6f6"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/error-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#fde1e1"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/error-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#fbb6b6"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/error-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#ff4242"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/error-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#e22a2a"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/error-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#ad0000"
+      }
+    },
+    "Theme/Loveship-Light/core/semantic/error-contrast": {
+      "$value": {
+        "kind": "value",
+        "value": "#fffff5"
+      }
+    },
+    "Theme/Loveship-Light/brand/custom": {
       "$value": {
         "kind": "value",
         "value": "#123456"
       }
     },
-    "brand.alias": {
-      "$value": {
-        "kind": "reference",
-        "refKey": "brand.custom"
-      }
-    },
-    "core.icons.icon": {
+    "additional palette/yellow/yellow-5": {
       "$value": {
         "kind": "value",
-        "value": "#6C6F80"
+        "value": "#fffff5"
       }
     },
-    "core.surfaces.divider": {
+    "additional palette/yellow/yellow-10": {
       "$value": {
         "kind": "value",
-        "value": "#CED0DB"
+        "value": "#ffffe5"
       }
     },
-    "core.surfaces.divider-light": {
+    "additional palette/yellow/yellow-20": {
       "$value": {
         "kind": "value",
-        "value": "#E1E3EB"
+        "value": "#fffca4"
       }
     },
-    "core.surfaces.overlay": {
+    "additional palette/yellow/yellow-50": {
       "$value": {
         "kind": "value",
-        "value": "#1D1E26CC"
+        "value": "#fdd63b"
       }
     },
-    "palette-additional.purple.purple-20": {
+    "additional palette/yellow/yellow-60": {
       "$value": {
         "kind": "value",
-        "value": "#E79DF5"
+        "value": "#edbe02"
+      }
+    },
+    "additional palette/yellow/yellow-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#bc7e02"
+      }
+    },
+    "additional palette/orange/orange-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#fef8f4"
+      }
+    },
+    "additional palette/orange/orange-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffe8d7"
+      }
+    },
+    "additional palette/orange/orange-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#ffcca7"
+      }
+    },
+    "additional palette/orange/orange-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#ff8b3e"
+      }
+    },
+    "additional palette/orange/orange-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#f76b0d"
+      }
+    },
+    "additional palette/orange/orange-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#bd4b00"
+      }
+    },
+    "additional palette/fuchsia/fuchsia-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#fff7fb"
+      }
+    },
+    "additional palette/fuchsia/fuchsia-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#f9d8e7"
+      }
+    },
+    "additional palette/fuchsia/fuchsia-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#edadc8"
+      }
+    },
+    "additional palette/fuchsia/fuchsia-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#ea4386"
+      }
+    },
+    "additional palette/fuchsia/fuchsia-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#d61e68"
+      }
+    },
+    "additional palette/fuchsia/fuchsia-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#ae1955"
+      }
+    },
+    "additional palette/purple/purple-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#fdf6fe"
+      }
+    },
+    "additional palette/purple/purple-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#f2ccfa"
+      }
+    },
+    "additional palette/purple/purple-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#e79df5"
+      }
+    },
+    "additional palette/purple/purple-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#b114d1"
+      }
+    },
+    "additional palette/purple/purple-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#860f9e"
+      }
+    },
+    "additional palette/purple/purple-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#5e0b6f"
+      }
+    },
+    "additional palette/violet/violet-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#f8f6fe"
+      }
+    },
+    "additional palette/violet/violet-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#dbccfa"
+      }
+    },
+    "additional palette/violet/violet-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#bb9df5"
+      }
+    },
+    "additional palette/violet/violet-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#773cec"
+      }
+    },
+    "additional palette/violet/violet-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#5514d6"
+      }
+    },
+    "additional palette/violet/violet-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#40109e"
+      }
+    },
+    "additional palette/cobalt/cobalt-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#f8faff"
+      }
+    },
+    "additional palette/cobalt/cobalt-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#d9e2fc"
+      }
+    },
+    "additional palette/cobalt/cobalt-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#aec0f5"
+      }
+    },
+    "additional palette/cobalt/cobalt-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#0f98ff"
+      }
+    },
+    "additional palette/cobalt/cobalt-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#006fe5"
+      }
+    },
+    "additional palette/cobalt/cobalt-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#0954a5"
+      }
+    },
+    "additional palette/cyan/cyan-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#f6fefe"
+      }
+    },
+    "additional palette/cyan/cyan-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#d1fafa"
+      }
+    },
+    "additional palette/cyan/cyan-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#aaeeee"
+      }
+    },
+    "additional palette/cyan/cyan-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#14cccc"
+      }
+    },
+    "additional palette/cyan/cyan-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#12b5b5"
+      }
+    },
+    "additional palette/cyan/cyan-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#0b6f6f"
+      }
+    },
+    "additional palette/mint/mint-5": {
+      "$value": {
+        "kind": "value",
+        "value": "#f2fcf5"
+      }
+    },
+    "additional palette/mint/mint-10": {
+      "$value": {
+        "kind": "value",
+        "value": "#ddf3e4"
+      }
+    },
+    "additional palette/mint/mint-20": {
+      "$value": {
+        "kind": "value",
+        "value": "#b4dfc4"
+      }
+    },
+    "additional palette/mint/mint-50": {
+      "$value": {
+        "kind": "value",
+        "value": "#4fc48c"
+      }
+    },
+    "additional palette/mint/mint-60": {
+      "$value": {
+        "kind": "value",
+        "value": "#31aa70"
+      }
+    },
+    "additional palette/mint/mint-70": {
+      "$value": {
+        "kind": "value",
+        "value": "#236e4a"
       }
     }
   },
   "typography": {
-    "heading.h3": {
+    "promo-headline/PH1": {
       "$value": {
         "kind": "value",
         "value": {
           "fontFamily": "Source Sans Pro",
-          "fontWeight": 600,
-          "fontSize": "24px",
-          "lineHeight": "30px"
+          "fontStyle": "Bold",
+          "fontSize": 72,
+          "lineHeight": {
+            "value": 72,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
         }
       }
     },
-    "uui4-light.text.text-16": {
+    "promo-headline/PH2": {
       "$value": {
         "kind": "value",
         "value": {
           "fontFamily": "Source Sans Pro",
-          "fontWeight": 400,
-          "fontSize": "16px",
-          "lineHeight": "24px"
+          "fontStyle": "Bold",
+          "fontSize": 48,
+          "lineHeight": {
+            "value": 54,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
         }
       }
     },
-    "core.headlines.h4": {
+    "promo-headline/PH3": {
       "$value": {
         "kind": "value",
         "value": {
           "fontFamily": "Source Sans Pro",
-          "fontWeight": 600,
-          "fontSize": "18px",
-          "lineHeight": "24px"
+          "fontStyle": "Bold",
+          "fontSize": 36,
+          "lineHeight": {
+            "value": 42,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
         }
       }
     },
-    "core.promo-headlines.ph3": {
+    "promo-headline/PH4": {
       "$value": {
         "kind": "value",
         "value": {
           "fontFamily": "Source Sans Pro",
-          "fontWeight": 700,
-          "fontSize": "36px",
-          "lineHeight": "42px"
+          "fontStyle": "Bold",
+          "fontSize": 24,
+          "lineHeight": {
+            "value": 30,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "promo-headline/PH5": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Bold",
+          "fontSize": 18,
+          "lineHeight": {
+            "value": 24,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "headline/H1": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Regular",
+          "fontSize": 42,
+          "lineHeight": {
+            "value": 48,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "headline/H1-upper": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Regular",
+          "fontSize": 42,
+          "lineHeight": {
+            "value": 48,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "headline/H2": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 30,
+          "lineHeight": {
+            "value": 36,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "headline/H2-upper": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 30,
+          "lineHeight": {
+            "value": 36,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "headline/H3": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 24,
+          "lineHeight": {
+            "value": 30,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "headline/H3-upper": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 24,
+          "lineHeight": {
+            "value": 30,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "headline/H4": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 18,
+          "lineHeight": {
+            "value": 24,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "headline/H4-upper": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 18,
+          "lineHeight": {
+            "value": 24,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "headline/H5": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 16,
+          "lineHeight": {
+            "value": 24,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "headline/H5-upper": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 16,
+          "lineHeight": {
+            "value": 24,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "headline/H6": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 14,
+          "lineHeight": {
+            "value": 24,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "headline/H6-upper": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 14,
+          "lineHeight": {
+            "value": 24,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "text/text-XL (18)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Regular",
+          "fontSize": 18,
+          "lineHeight": {
+            "value": 24,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "text/text-XL-compact (18)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Regular",
+          "fontSize": 18,
+          "lineHeight": {
+            "value": 21,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "text/text-L (16)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Regular",
+          "fontSize": 16,
+          "lineHeight": {
+            "value": 24,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "text/text-L-compact (16)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Regular",
+          "fontSize": 16,
+          "lineHeight": {
+            "value": 18,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "text/text-L-upper (16)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Regular",
+          "fontSize": 16,
+          "lineHeight": {
+            "value": 24,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "text/text-M (14)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Regular",
+          "fontSize": 14,
+          "lineHeight": {
+            "value": 24,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "text/text-M-compact (14)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Regular",
+          "fontSize": 14,
+          "lineHeight": {
+            "value": 18,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "text/text-M-compact-upper (14)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Regular",
+          "fontSize": 14,
+          "lineHeight": {
+            "value": 18,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "text/text-S (12)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Regular",
+          "fontSize": 12,
+          "lineHeight": {
+            "value": 18,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "text/text-S-compact (12)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Regular",
+          "fontSize": 12,
+          "lineHeight": {
+            "value": 12,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "text/text-S-upper (12)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Regular",
+          "fontSize": 12,
+          "lineHeight": {
+            "value": 18,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "text/text-XS (10)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Regular",
+          "fontSize": 10,
+          "lineHeight": {
+            "value": 12,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "accent/accent-XL (18)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 18,
+          "lineHeight": {
+            "value": 24,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "accent/accent-XL-compact (18)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 18,
+          "lineHeight": {
+            "value": 18,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "accent/accent-XL-compact-upper (18)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 18,
+          "lineHeight": {
+            "value": 18,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0.5,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "accent/accent-L (16)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 16,
+          "lineHeight": {
+            "value": 24,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "accent/accent-L-compact (16)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 16,
+          "lineHeight": {
+            "value": 18,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "accent/accent-L-compact-upper (16)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 16,
+          "lineHeight": {
+            "value": 18,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0.5,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "accent/accent-M (14)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 14,
+          "lineHeight": {
+            "value": 24,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "accent/accent-M-compact (14)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 14,
+          "lineHeight": {
+            "value": 18,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "accent/accent-M-compact-upper (14)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 14,
+          "lineHeight": {
+            "value": 18,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0.5,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "accent/accent-S (12)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 12,
+          "lineHeight": {
+            "value": 18,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "accent/accent-S-compact (12)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 12,
+          "lineHeight": {
+            "value": 12,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "accent/accent-S-compact-upper (12)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 12,
+          "lineHeight": {
+            "value": 12,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0.4000000059604645,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "accent/accent-XS (10)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 10,
+          "lineHeight": {
+            "value": 12,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "accent/accent-XS-compact-upper (10)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 10,
+          "lineHeight": {
+            "value": 12,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0.4000000059604645,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "link/link-L (16)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Regular",
+          "fontSize": 16,
+          "lineHeight": {
+            "value": 24,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "link/link-L-compact-(16)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Regular",
+          "fontSize": 16,
+          "lineHeight": {
+            "value": 18,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "link/link-M (14)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Regular",
+          "fontSize": 14,
+          "lineHeight": {
+            "value": 24,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "link/link-M-compact-(14)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Regular",
+          "fontSize": 14,
+          "lineHeight": {
+            "value": 18,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "link/link-S (12)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Regular",
+          "fontSize": 12,
+          "lineHeight": {
+            "value": 18,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "link/link-S-compact-(12)": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Regular",
+          "fontSize": 12,
+          "lineHeight": {
+            "value": 12,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "caption/label-14": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 14,
+          "lineHeight": {
+            "value": 18,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "caption/label-12": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 12,
+          "lineHeight": {
+            "value": 18,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "caption/footnote": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Regular",
+          "fontSize": 12,
+          "lineHeight": {
+            "value": 18,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "caption/optional-14": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Italic",
+          "fontSize": 14,
+          "lineHeight": {
+            "value": 18,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "caption/optional-12": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Italic",
+          "fontSize": 12,
+          "lineHeight": {
+            "value": 18,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "other/logo-title": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "SemiBold",
+          "fontSize": 21,
+          "lineHeight": {
+            "value": 24,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "other/logo-descriptor": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "Regular",
+          "fontSize": 10,
+          "lineHeight": {
+            "value": 12,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
+        }
+      }
+    },
+    "other/code": {
+      "$value": {
+        "kind": "value",
+        "value": {
+          "fontFamily": "Roboto Mono",
+          "fontStyle": "Regular",
+          "fontSize": 14,
+          "lineHeight": {
+            "value": 24,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "unit": "PIXELS"
+          }
         }
       }
     }
   },
   "shadow": {
-    "epam.core.shadow-level-3": {
+    "shadows/shadow-level-1": {
       "$value": {
         "kind": "value",
         "value": [
           {
+            "type": "DROP_SHADOW",
+            "offsetX": 0,
+            "offsetY": 0,
+            "blur": 3,
+            "spread": 0,
+            "color": "#1d1e260d"
+          },
+          {
+            "type": "DROP_SHADOW",
+            "offsetX": 0,
+            "offsetY": 3,
+            "blur": 6,
+            "spread": 0,
+            "color": "#1d1e261a"
+          }
+        ]
+      }
+    },
+    "shadows/shadow-level-2": {
+      "$value": {
+        "kind": "value",
+        "value": [
+          {
+            "type": "DROP_SHADOW",
+            "offsetX": 0,
+            "offsetY": 0,
+            "blur": 6,
+            "spread": 0,
+            "color": "#1d1e260d"
+          },
+          {
+            "type": "DROP_SHADOW",
+            "offsetX": 0,
+            "offsetY": 3,
+            "blur": 12,
+            "spread": 0,
+            "color": "#1d1e261a"
+          },
+          {
+            "type": "DROP_SHADOW",
+            "offsetX": 0,
+            "offsetY": 6,
+            "blur": 12,
+            "spread": 0,
+            "color": "#1d1e260d"
+          }
+        ]
+      }
+    },
+    "shadows/shadow-level-3": {
+      "$value": {
+        "kind": "value",
+        "value": [
+          {
+            "type": "DROP_SHADOW",
             "offsetX": 0,
             "offsetY": 9,
             "blur": 15,
             "spread": 0,
-            "color": "#1D1E260D"
+            "color": "#1d1e260d"
           },
           {
+            "type": "DROP_SHADOW",
             "offsetX": 0,
             "offsetY": 6,
             "blur": 36,
             "spread": 0,
-            "color": "#1D1E261F"
+            "color": "#1d1e261f"
           },
           {
+            "type": "DROP_SHADOW",
             "offsetX": 0,
             "offsetY": 0,
             "blur": 10,
             "spread": 0,
-            "color": "#1D1E260D"
+            "color": "#1d1e260d"
           }
         ]
+      }
+    },
+    "shadows/led-info": {
+      "$value": {
+        "kind": "value",
+        "value": [
+          {
+            "type": "DROP_SHADOW",
+            "offsetX": 0,
+            "offsetY": 0,
+            "blur": 6,
+            "spread": 0,
+            "color": "#009ecc"
+          }
+        ]
+      }
+    },
+    "shadows/led-success": {
+      "$value": {
+        "kind": "value",
+        "value": [
+          {
+            "type": "DROP_SHADOW",
+            "offsetX": 0,
+            "offsetY": 0,
+            "blur": 6,
+            "spread": 0,
+            "color": "#67a300"
+          }
+        ]
+      }
+    },
+    "shadows/led-warning": {
+      "$value": {
+        "kind": "value",
+        "value": [
+          {
+            "type": "DROP_SHADOW",
+            "offsetX": 0,
+            "offsetY": 0,
+            "blur": 6,
+            "spread": 0,
+            "color": "#fcaa00"
+          }
+        ]
+      }
+    },
+    "shadows/led-critical": {
+      "$value": {
+        "kind": "value",
+        "value": [
+          {
+            "type": "DROP_SHADOW",
+            "offsetX": 0,
+            "offsetY": 0,
+            "blur": 6,
+            "spread": 0,
+            "color": "#ff4242"
+          }
+        ]
+      }
+    },
+    "shadows/panel-left": {
+      "$value": {
+        "kind": "value",
+        "value": [
+          {
+            "type": "DROP_SHADOW",
+            "offsetX": 0,
+            "offsetY": 4,
+            "blur": 4,
+            "spread": 0,
+            "color": "#00000040"
+          }
+        ]
+      }
+    },
+    "shadows/panel-right": {
+      "$value": {
+        "kind": "value",
+        "value": [
+          {
+            "type": "DROP_SHADOW",
+            "offsetX": 0,
+            "offsetY": 4,
+            "blur": 4,
+            "spread": 0,
+            "color": "#00000040"
+          }
+        ]
+      }
+    },
+    "shadows/table-header": {
+      "$value": {
+        "kind": "value",
+        "value": [
+          {
+            "type": "DROP_SHADOW",
+            "offsetX": 0,
+            "offsetY": 4,
+            "blur": 4,
+            "spread": 0,
+            "color": "#00000040"
+          }
+        ]
+      }
+    },
+    "shadows/table-column-left": {
+      "$value": {
+        "kind": "value",
+        "value": [
+          {
+            "type": "DROP_SHADOW",
+            "offsetX": 0,
+            "offsetY": 4,
+            "blur": 4,
+            "spread": 0,
+            "color": "#00000040"
+          }
+        ]
+      }
+    },
+    "shadows/table-column-right": {
+      "$value": {
+        "kind": "value",
+        "value": [
+          {
+            "type": "DROP_SHADOW",
+            "offsetX": 0,
+            "offsetY": 4,
+            "blur": 4,
+            "spread": 0,
+            "color": "#00000040"
+          }
+        ]
+      }
+    }
+  },
+  "dimension": {
+    "Theme/Loveship-Light/core/sizes/border-radius-3": {
+      "$value": {
+        "kind": "value",
+        "value": "4px"
+      }
+    },
+    "Theme/Loveship-Light/core/sizes/border-radius-6": {
+      "$value": {
+        "kind": "value",
+        "value": "6px"
+      }
+    },
+    "Theme/Loveship-Light/core/sizes/border-radius-12": {
+      "$value": {
+        "kind": "value",
+        "value": "12px"
+      }
+    },
+    "Theme/Loveship-Light/core/sizes/spacer-3": {
+      "$value": {
+        "kind": "value",
+        "value": "3px"
+      }
+    },
+    "Theme/Loveship-Light/core/sizes/spacer-6": {
+      "$value": {
+        "kind": "value",
+        "value": "6px"
+      }
+    },
+    "Theme/Loveship-Light/core/sizes/spacer-9": {
+      "$value": {
+        "kind": "value",
+        "value": "9px"
+      }
+    },
+    "Theme/Loveship-Light/core/sizes/spacer-12": {
+      "$value": {
+        "kind": "value",
+        "value": "12px"
+      }
+    },
+    "Theme/Loveship-Light/core/sizes/spacer-18": {
+      "$value": {
+        "kind": "value",
+        "value": "18px"
+      }
+    },
+    "Theme/Loveship-Light/core/sizes/spacer-24": {
+      "$value": {
+        "kind": "value",
+        "value": "24px"
+      }
+    },
+    "Theme/Loveship-Light/core/sizes/spacer-30": {
+      "$value": {
+        "kind": "value",
+        "value": "30px"
+      }
+    },
+    "Theme/Loveship-Light/core/sizes/spacer-36": {
+      "$value": {
+        "kind": "value",
+        "value": "36px"
+      }
+    },
+    "Theme/Loveship-Light/core/sizes/spacer-42": {
+      "$value": {
+        "kind": "value",
+        "value": "42px"
+      }
+    },
+    "Theme/Loveship-Light/core/sizes/spacer-48": {
+      "$value": {
+        "kind": "value",
+        "value": "48px"
+      }
+    },
+    "Theme/Loveship-Light/core/sizes/spacer-54": {
+      "$value": {
+        "kind": "value",
+        "value": "54px"
+      }
+    },
+    "Theme/Loveship-Light/core/sizes/spacer-60": {
+      "$value": {
+        "kind": "value",
+        "value": "60px"
+      }
+    },
+    "Theme/Loveship-Light/core/sizes/focus-outline-widht": {
+      "$value": {
+        "kind": "value",
+        "value": "2px"
+      }
+    },
+    "Theme/Loveship-Light/core/sizes/focus-outline-offset": {
+      "$value": {
+        "kind": "value",
+        "value": "2px"
+      }
+    },
+    "Theme/Loveship-Light/core/sizes/tab-line-width": {
+      "$value": {
+        "kind": "value",
+        "value": "3px"
+      }
+    },
+    "Theme/Loveship-Light/core/sizes/notify-size": {
+      "$value": {
+        "kind": "value",
+        "value": "6px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H1/H1-size": {
+      "$value": {
+        "kind": "value",
+        "value": "42px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H1/H1-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "48px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H1/H1-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H1/H1-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H2/H2-size": {
+      "$value": {
+        "kind": "value",
+        "value": "30px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H2/H2-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "36px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H2/H2-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H2/H2-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H3/H3-size": {
+      "$value": {
+        "kind": "value",
+        "value": "24px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H3/H3-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "30px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H3/H3-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H3/H3-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H4/H4-size": {
+      "$value": {
+        "kind": "value",
+        "value": "18px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H4/H4-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "24px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H4/H4-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H4/H4-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H5/H5-size": {
+      "$value": {
+        "kind": "value",
+        "value": "16px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H5/H5-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "24px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H5/H5-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H5/H5-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H6/H6-size": {
+      "$value": {
+        "kind": "value",
+        "value": "14px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H6/H6-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "24px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H6/H6-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H6/H6-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH1/PH1-size": {
+      "$value": {
+        "kind": "value",
+        "value": "72px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH1/PH1-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "72px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH1/PH1-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH1/PH1-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH2/PH2-size": {
+      "$value": {
+        "kind": "value",
+        "value": "48px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH2/PH2-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "54px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH2/PH2-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH2/PH2-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH3/PH3-size": {
+      "$value": {
+        "kind": "value",
+        "value": "36px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH3/PH3-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "42px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH3/PH3-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH3/PH3-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH4/PH4-size": {
+      "$value": {
+        "kind": "value",
+        "value": "24px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH4/PH4-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "30px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH4/PH4-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH4/PH4-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH5/PH5-size": {
+      "$value": {
+        "kind": "value",
+        "value": "18px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH5/PH5-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "24px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH5/PH5-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH5/PH5-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-xl-(18)/text-xl-size": {
+      "$value": {
+        "kind": "value",
+        "value": "18px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-xl-(18)/text-xl-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "24px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-xl-(18)/text-xl-line-height-compact": {
+      "$value": {
+        "kind": "value",
+        "value": "21px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-xl-(18)/text-xl-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-xl-(18)/text-xl-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "18px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-l-(16)/text-l-size": {
+      "$value": {
+        "kind": "value",
+        "value": "16px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-l-(16)/text-l-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "24px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-l-(16)/text-l-line-height-compact": {
+      "$value": {
+        "kind": "value",
+        "value": "18px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-l-(16)/text-l-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-l-(16)/text-l-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "6px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-m-(14)/text-m-size": {
+      "$value": {
+        "kind": "value",
+        "value": "14px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-m-(14)/text-m-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "24px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-m-(14)/text-m-line-height-compact": {
+      "$value": {
+        "kind": "value",
+        "value": "18px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-m-(14)/text-m-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-m-(14)/text-m-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "6px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-s-(12)/text-s-size": {
+      "$value": {
+        "kind": "value",
+        "value": "12px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-s-(12)/text-s-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "18px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-s-(12)/text-s-line-height-compact": {
+      "$value": {
+        "kind": "value",
+        "value": "12px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-s-(12)/text-s-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-s-(12)/text-s-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "6px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-xs-(10)/text-xs-size": {
+      "$value": {
+        "kind": "value",
+        "value": "10px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-xs-(10)/text-xs-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "12px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-xs-(10)/text-xs-line-height-compact": {
+      "$value": {
+        "kind": "value",
+        "value": "12px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-xs-(10)/text-xs-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-xs-(10)/text-xs-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "12px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-xl-(18)/accent-xl-size": {
+      "$value": {
+        "kind": "value",
+        "value": "18px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-xl-(18)/accent-xl-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "24px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-xl-(18)/accent-xl-line-height-compact": {
+      "$value": {
+        "kind": "value",
+        "value": "18px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-xl-(18)/accent-xl-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-xl-(18)/accent-xl-upper-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0.5px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-xl-(18)/accent-xl-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "18px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-l-(16)/accent-l-size": {
+      "$value": {
+        "kind": "value",
+        "value": "16px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-l-(16)/accent-l-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "24px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-l-(16)/accent-l-line-height-compact": {
+      "$value": {
+        "kind": "value",
+        "value": "18px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-l-(16)/accent-l-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-l-(16)/accent-l-upper-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0.5px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-l-(16)/accent-l-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "18px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-m-(14)/accent-m-size": {
+      "$value": {
+        "kind": "value",
+        "value": "14px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-m-(14)/accent-m-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "24px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-m-(14)/accent-m-line-height-compact": {
+      "$value": {
+        "kind": "value",
+        "value": "18px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-m-(14)/accent-m-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-m-(14)/accent-m-upper-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0.5px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-m-(14)/accent-m-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "6px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-s-(12)/accent-s-size": {
+      "$value": {
+        "kind": "value",
+        "value": "12px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-s-(12)/accent-s-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "18px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-s-(12)/accent-s-line-height-compact": {
+      "$value": {
+        "kind": "value",
+        "value": "12px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-s-(12)/accent-s-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-s-(12)/accent-s-upper-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0.4000000059604645px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-s-(12)/accent-s-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "6px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-xs-(10)/accent-xs-size": {
+      "$value": {
+        "kind": "value",
+        "value": "10px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-xs-(10)/accent-xs-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "12px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-xs-(10)/accent-xs-line-height-compact": {
+      "$value": {
+        "kind": "value",
+        "value": "12px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-xs-(10)/accent-xs-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-xs-(10)/accent-xs-upper-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0.4000000059604645px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-xs-(10)/accent-xs-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "3px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/footnote/footnote-size": {
+      "$value": {
+        "kind": "value",
+        "value": "12px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/footnote/footnote-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "18px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/footnote/footnote-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/footnote/footnote-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/optional-14/optional-14-size": {
+      "$value": {
+        "kind": "value",
+        "value": "14px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/optional-14/optional-14-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "18px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/optional-14/optional-14-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/optional-14/optional-14-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/optional-12/optional-12-size": {
+      "$value": {
+        "kind": "value",
+        "value": "12px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/optional-12/optional-12-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "18px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/optional-12/optional-12-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/optional-12/optional-12-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "6px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/logo-title/logo-title-size": {
+      "$value": {
+        "kind": "value",
+        "value": "21px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/logo-title/logo-title-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "24px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/logo-title/logo-title-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/logo-title/logo-title-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/logo-descriptor/logo-descriptor-size": {
+      "$value": {
+        "kind": "value",
+        "value": "10px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/logo-descriptor/logo-descriptor-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "12px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/logo-descriptor/logo-descriptor-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/logo-descriptor/logo-descriptor-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/code/code-size": {
+      "$value": {
+        "kind": "value",
+        "value": "14px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/code/code-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "24px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/code/code-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/code/code-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/label-14/label-14-size": {
+      "$value": {
+        "kind": "value",
+        "value": "14px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/label-14/label-14-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "18px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/label-14/label-14-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/label-14/label-14-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/label-12/label-12-size": {
+      "$value": {
+        "kind": "value",
+        "value": "12px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/label-12/label-12-line-height": {
+      "$value": {
+        "kind": "value",
+        "value": "18px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/label-12/label-12-letter-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "0px"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/label-12/label-12-paragraph-spacing": {
+      "$value": {
+        "kind": "value",
+        "value": "6px"
+      }
+    }
+  },
+  "string": {
+    "Theme/Loveship-Light/other/theme name": {
+      "$value": {
+        "kind": "value",
+        "value": "Loveship Light"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/headline-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H1/H1-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H1/H1-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Regular"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H2/H2-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H2/H2-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Semibold"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H3/H3-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H3/H3-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Semibold"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H4/H4-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H4/H4-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Semibold"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H5/H5-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H5/H5-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Semibold"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H6/H6-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/headlines/H6/H6-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Semibold"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/promo-headline-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH1/PH1-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH1/PH1-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Bold"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH2/PH2-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH2/PH2-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Bold"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH3/PH3-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH3/PH3-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Bold"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH4/PH4-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH4/PH4-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Bold"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH5/PH5-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/promo-headlines/PH5/PH5-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Bold"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/body-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-xl-(18)/text-xl-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-xl-(18)/text-xl-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Regular"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-l-(16)/text-l-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-l-(16)/text-16-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Regular"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-m-(14)/text-m-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-m-(14)/text-14-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Regular"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-s-(12)/text-s-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-s-(12)/text-s-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Regular"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-xs-(10)/text-xs-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/text/text-xs-(10)/text-xs-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Regular"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-xl-(18)/accent-xl-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-xl-(18)/accent-xl-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Semibold"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-l-(16)/accent-l-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-l-(16)/accent-l-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Semibold"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-m-(14)/accent-m-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-m-(14)/accent-m-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Semibold"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-s-(12)/accent-s-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-s-(12)/accent-s-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Semibold"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-xs-(10)/accent-xs-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/accent/accent-xs-(10)/accent-xs-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Semibold"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/footnote/footnote-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/footnote/footnote-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Regular"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/optional-14/optional-14-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/optional-14/optional-14-style": {
+      "$value": {
+        "kind": "value",
+        "value": "Italic"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/optional-12/optional-12-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/optional-12/optional-12-style": {
+      "$value": {
+        "kind": "value",
+        "value": "Italic"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/logo-title/logo-title-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/logo-title/logo-title-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Semibold"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/logo-descriptor/logo-descriptor-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/logo-descriptor/logo-descriptor-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Regular"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/code/code-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Roboto Mono"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/code/code-weight": {
+      "$value": {
+        "kind": "value",
+        "value": "Regular"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/label-14/label-14-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/label-14/label-14-style": {
+      "$value": {
+        "kind": "value",
+        "value": "Semibold"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/label-12/label-12-font": {
+      "$value": {
+        "kind": "value",
+        "value": "Source Sans Pro"
+      }
+    },
+    "Theme/Loveship-Light/core/typography/components/label-12/label-12-style": {
+      "$value": {
+        "kind": "value",
+        "value": "Semibold"
       }
     }
   }
